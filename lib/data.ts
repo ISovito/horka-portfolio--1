@@ -68,10 +68,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Tailwind Components",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "Library of components like buttons, inputs..., that are already styled with tailwind so that you can just copy them whenever you need to",
+    tags: ["React", "Next.js", "MongoDB", "Tailwind", "TypeScript", "NodeJS", "Express"],
     imageUrl: comingSoon,
   },
   // {
